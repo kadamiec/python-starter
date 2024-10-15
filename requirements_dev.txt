@@ -4,6 +4,7 @@ pytest
 pytest-runner
 pytest-benchmark
 pylint
+ipykernel
 #flake8
 # bump2version
 # watchdog
