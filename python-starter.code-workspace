@@ -1,0 +1,17 @@
+{
+	"folders": [
+		{
+			"path": "."
+		}
+	],
+    "extensions": {
+        "recommendations": [
+            "ms-python.python",
+            "ms-python.debugpy",
+            "ms-python.pylint",
+            "ms-python.vscode-pylance",
+            "EditorConfig.EditorConfig",
+            "ms-toolsai.jupyter"
+        ]
+    }
+}
