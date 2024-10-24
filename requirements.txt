@@ -1,3 +1,5 @@
+pydantic    # data validation
+pydantic[email]    # email validation
 pandas
 numpy
 numpy_financial
